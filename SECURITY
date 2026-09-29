@@ -1,0 +1,44 @@
+# Security Policy
+
+## Supported Versions
+
+Security updates are currently provided for the latest stable version of AFileTidy.
+
+| Version | Supported |
+|---|---|
+| 1.0.x | Yes |
+| Older versions | No |
+
+## Reporting a Vulnerability
+
+If you discover a security issue in AFileTidy, please avoid publishing sensitive details publicly before the issue can be reviewed.
+
+Examples of security-related issues may include:
+
+- Unexpected file deletion
+- Files being moved to unintended locations
+- Path traversal issues
+- Unsafe handling of file or folder names
+- Unexpected execution of external commands
+- Problems that could lead to data loss
+- Malicious behavior triggered by specially crafted files or folders
+
+When reporting a security issue, please include:
+
+- The AFileTidy version
+- Your Windows version
+- A clear description of the issue
+- Steps to reproduce it
+- Screenshots or error messages, if relevant
+
+For non-sensitive bugs and feature requests, please use the GitHub Issues section.
+
+## Important Notice
+
+AFileTidy performs file-management operations on folders selected by the user.
+
+Although the application is designed to organize files without deleting them, users should keep backups of important data before using any file-management software.
+
+Only download AFileTidy from the official repository:
+
+https://github.com/ozkancantasarim/AFileTidy
