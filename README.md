@@ -235,9 +235,32 @@ However, as with any file-management application, keeping backups of important f
 
 ## Screenshots
 
+### File Preview
+
+Choose a folder, preview the detected files, and decide exactly what AFileTidy should organize.
+
 <p align="center">
-  <img src="assets/AFileTidy.png" alt="AFileTidy interface" width="800">
+  <img src="assets/app-preview.png" alt="AFileTidy file preview interface" width="900">
 </p>
+
+### Before & After
+
+See how AFileTidy turns a folder containing mixed file types into a clean, categorized structure.
+
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/before-organizing.png" alt="Folder before AFileTidy organization">
+    </td>
+    <td>
+      <img src="assets/after-organizing.png" alt="Folder after AFileTidy organization">
+    </td>
+  </tr>
+</table>
 
 ---
 
