@@ -61,7 +61,9 @@ See how AFileTidy turns a folder containing mixed file types into a clean, categ
     </td>
   </tr>
 </table>
+
 ---
+
 ## Download
 
 ### Latest version
