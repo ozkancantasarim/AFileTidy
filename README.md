@@ -268,24 +268,6 @@ When reporting a problem, please include:
 
 ---
 
-## Roadmap
-
-Possible improvements for future versions include:
-
-* More file categories and extensions
-* Custom categories
-* User-defined organization rules
-* Excluded folders and file types
-* Recursive subfolder scanning
-* Drag-and-drop support
-* Additional language support
-* Improved organization history
-* More advanced undo functionality
-
-The roadmap may change as AFileTidy develops.
-
----
-
 ## Contributing
 
 Suggestions, bug reports and improvements are welcome.
