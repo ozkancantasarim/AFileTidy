@@ -1,0 +1,34 @@
+# AFileTidy
+# Ignore local build outputs and temporary files
+
+# Build output
+dist/
+build/
+
+# Compiled executable
+*.exe
+
+# AFileTidy runtime/history data
+.Klasorleyici/
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio / VS Code local settings
+.vs/
+.vscode/
+
+# PowerShell / editor temporary files
+*.swp
+*.swo
+
+# macOS (in case repository is edited elsewhere)
+.DS_Store
