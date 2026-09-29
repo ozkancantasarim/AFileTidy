@@ -54,10 +54,10 @@ See how AFileTidy turns a folder containing mixed file types into a clean, categ
   </tr>
   <tr>
     <td>
-      <img src="assets/before_organizing.png" alt="Folder before AFileTidy organization">
+      <img src="assets/before_organized.png" alt="Folder before AFileTidy organization">
     </td>
     <td>
-      <img src="assets/after_organizing.png" alt="Folder after AFileTidy organization">
+      <img src="assets/after_organized.png" alt="Folder after AFileTidy organization">
     </td>
   </tr>
 </table>
